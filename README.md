@@ -6,4 +6,4 @@ __Projetos em geral, eletrônica, educacional e outros__
 
 ### 1. Projetos
 
-TSC - Tempo sucção Capilar
++ __TSC__ - _Tempo sucção Capilar_
